@@ -3,3 +3,73 @@
 2025-11-26 10:23:09 WARN  App:24 - This is warn : ☕ 
 2025-11-26 10:23:09 ERROR App:25 - This is error : ☕ 
 2025-11-26 10:23:09 FATAL App:26 - This is fatal : ☕ 
+2025-11-26 10:56:43 DEBUG App:17 - This is debug : ☕ 
+2025-11-26 10:56:43 INFO  App:21 - This is info : ☕ 
+2025-11-26 10:56:43 WARN  App:24 - This is warn : ☕ 
+2025-11-26 10:56:43 ERROR App:25 - This is error : ☕ 
+2025-11-26 10:56:43 FATAL App:26 - This is fatal : ☕ 
+2025-11-26 10:58:34 DEBUG App:29 - This is debug :            _                         _
+       _==/          i     i          \==
+     /XX/            |\___/|            \XX\
+   /XXXX\            |XXXXX|            /XXXX\
+  |XXXXXX\_         _XXXXXXX_         _/XXXXXX|
+ XXXXXXXXXXXxxxxxxxXXXXXXXXXXXxxxxxxxXXXXXXXXXXX
+|XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX|
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+|XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX|
+ XXXXXX/^^^^"\XXXXXXXXXXXXXXXXXXXXX/^^^^^\XXXXXX
+  |XXX|       \XXX/^^\XXXXX/^^\XXX/       |XXX|
+    \XX\       \X/    \XXX/    \X/       /XX/
+       "\       "      \X/      "       /" 
+2025-11-26 10:58:34 INFO  App:33 - This is info :            _                         _
+       _==/          i     i          \==
+     /XX/            |\___/|            \XX\
+   /XXXX\            |XXXXX|            /XXXX\
+  |XXXXXX\_         _XXXXXXX_         _/XXXXXX|
+ XXXXXXXXXXXxxxxxxxXXXXXXXXXXXxxxxxxxXXXXXXXXXXX
+|XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX|
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+|XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX|
+ XXXXXX/^^^^"\XXXXXXXXXXXXXXXXXXXXX/^^^^^\XXXXXX
+  |XXX|       \XXX/^^\XXXXX/^^\XXX/       |XXX|
+    \XX\       \X/    \XXX/    \X/       /XX/
+       "\       "      \X/      "       /" 
+2025-11-26 10:58:34 WARN  App:36 - This is warn :            _                         _
+       _==/          i     i          \==
+     /XX/            |\___/|            \XX\
+   /XXXX\            |XXXXX|            /XXXX\
+  |XXXXXX\_         _XXXXXXX_         _/XXXXXX|
+ XXXXXXXXXXXxxxxxxxXXXXXXXXXXXxxxxxxxXXXXXXXXXXX
+|XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX|
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+|XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX|
+ XXXXXX/^^^^"\XXXXXXXXXXXXXXXXXXXXX/^^^^^\XXXXXX
+  |XXX|       \XXX/^^\XXXXX/^^\XXX/       |XXX|
+    \XX\       \X/    \XXX/    \X/       /XX/
+       "\       "      \X/      "       /" 
+2025-11-26 10:58:34 ERROR App:37 - This is error :            _                         _
+       _==/          i     i          \==
+     /XX/            |\___/|            \XX\
+   /XXXX\            |XXXXX|            /XXXX\
+  |XXXXXX\_         _XXXXXXX_         _/XXXXXX|
+ XXXXXXXXXXXxxxxxxxXXXXXXXXXXXxxxxxxxXXXXXXXXXXX
+|XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX|
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+|XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX|
+ XXXXXX/^^^^"\XXXXXXXXXXXXXXXXXXXXX/^^^^^\XXXXXX
+  |XXX|       \XXX/^^\XXXXX/^^\XXX/       |XXX|
+    \XX\       \X/    \XXX/    \X/       /XX/
+       "\       "      \X/      "       /" 
+2025-11-26 10:58:34 FATAL App:38 - This is fatal :            _                         _
+       _==/          i     i          \==
+     /XX/            |\___/|            \XX\
+   /XXXX\            |XXXXX|            /XXXX\
+  |XXXXXX\_         _XXXXXXX_         _/XXXXXX|
+ XXXXXXXXXXXxxxxxxxXXXXXXXXXXXxxxxxxxXXXXXXXXXXX
+|XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX|
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+|XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX|
+ XXXXXX/^^^^"\XXXXXXXXXXXXXXXXXXXXX/^^^^^\XXXXXX
+  |XXX|       \XXX/^^\XXXXX/^^\XXX/       |XXX|
+    \XX\       \X/    \XXX/    \X/       /XX/
+       "\       "      \X/      "       /" 

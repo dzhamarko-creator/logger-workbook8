@@ -8,7 +8,19 @@ public class App {
     final static Logger logger = LogManager.getLogger(App.class);
 
     public static void main(String[] args) {
-        logMeLikeYouDo("☕ ");
+        logMeLikeYouDo("           _                         _\n" +
+                "       _==/          i     i          \\==\n" +
+                "     /XX/            |\\___/|            \\XX\\\n" +
+                "   /XXXX\\            |XXXXX|            /XXXX\\\n" +
+                "  |XXXXXX\\_         _XXXXXXX_         _/XXXXXX|\n" +
+                " XXXXXXXXXXXxxxxxxxXXXXXXXXXXXxxxxxxxXXXXXXXXXXX\n" +
+                "|XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX|\n" +
+                "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX\n" +
+                "|XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX|\n" +
+                " XXXXXX/^^^^\"\\XXXXXXXXXXXXXXXXXXXXX/^^^^^\\XXXXXX\n" +
+                "  |XXX|       \\XXX/^^\\XXXXX/^^\\XXX/       |XXX|\n" +
+                "    \\XX\\       \\X/    \\XXX/    \\X/       /XX/\n" +
+                "       \"\\       \"      \\X/      \"       /\" ");
     }
 
     private static void logMeLikeYouDo(String input) {
